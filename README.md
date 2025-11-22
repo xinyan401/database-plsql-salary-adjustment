@@ -39,3 +39,7 @@ Run the SQL files in this order:
 3. `salary_increase_v1.sql` or `salary_increase_v2.sql`
 4. `EXEC salary_increase;`
 
+
+## 🔧 Status
+This project was built for my Database Technology course as a hands-on PL/SQL exercise.
+
