@@ -39,6 +39,14 @@ Run the SQL files in this order:
 3. `salary_increase_v1.sql` or `salary_increase_v2.sql`
 4. `EXEC salary_increase;`
 
+## I contributed the majority of the SQL logic in this project, including:
+- creating tables
+- writing INSERT, UPDATE, DELETE statements
+- implementing stored procedures and functions
+- basic exception handling
+
+The only section not written by me is the V2 cursor part, which was added
+later by my teammate as an enhancement. 
 
 ## 🔧 Status
 This project was built for my Database Technology course as a hands-on PL/SQL exercise.
